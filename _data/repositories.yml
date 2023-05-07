@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - 1000obo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - GAIPS/socially-aware-interactions
+  - GAIPS/dynamic-identity-model-for-agents
+  - GAIPS/geometry-friends
