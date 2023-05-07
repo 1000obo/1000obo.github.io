@@ -2,26 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student, Computer Science and Engineering - GAIPS, INESC-ID, IST
 
 profile:
   align: right
-  image: prof_pic.jfif
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>IST-Taguspark</p>
+    <p>Av. Prof. Aníbal Cavaco Silva</p>
+    <p>2744-016 Porto Salvo, Portugal</p>
+    <p>Office: 2N7.27</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-💼 PhD Student in the AI for People and Society Research Group, INESC-ID, Instituto Superior Técnico, University of Lisbon, Portugal
-❔ Research interests include social intelligent agents, human-agent interaction, video games, social sciences
-📃 Recent work focused on the incorporation of concepts related with social identities and practices into virtual agents
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Inês Lobo, and I am a PhD student in the AI for People and Society Research Group at INESC-ID, Instituto Superior Técnico, Lisbon, Portugal.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have a master's degree in Information Systems and Computer Engineering, specializing in Games and Intelligent Systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in conducting research in the areas of social intelligent agents, human-agent interaction, video games, and social sciences.
+
+My most recent work has focused on the incorporation of concepts related with social identities and practices into virtual agents and agent-based social simulations.
+
+In addition to my PhD studies, I actively contribute to the outreach efforts of my research lab by managing its social media channels. During my free time, I enjoy painting and writing poetry, as well as reading on mental health related topics.
+
