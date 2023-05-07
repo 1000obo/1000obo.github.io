@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: ...with Zima Blue paintings 
 years: [2022,2021]
-nav: true
+nav: false
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
