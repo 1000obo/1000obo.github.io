@@ -24,7 +24,7 @@ I have a master's degree in Information Systems and Computer Engineering, specia
 
 I am interested in conducting research in the areas of social intelligent agents, human-agent interaction, video games, and social sciences.
 
-My most recent work has focused on the incorporation of concepts related with social identities and practices into virtual agents and agent-based social simulations.
+My most recent work has focused on the incorporation of concepts related with social identities and practices into virtual agents and agent-based social simulations. I have also been exploring the potential of using video games as a tool to explore socially appropriate behaviour and human-AI partnership.
 
 In addition to my PhD studies, I actively contribute to the outreach efforts of my research lab by managing its social media channels. During my free time, I enjoy painting and writing poetry, as well as reading on mental health related topics.
 
