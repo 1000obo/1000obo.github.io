@@ -17,7 +17,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-cv_pdf: CV_.pdf
+cv_pdf: CV.pdf
 ---
 My name is Inês Lobo, and I am a Ph.D. student in the <a href="https://gaips.inesc-id.pt/">AI for People and Society Research Group</a> at INESC-ID, Instituto Superior Técnico, Lisbon, Portugal.
 
