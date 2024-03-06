@@ -1,0 +1,28 @@
+xyz( {
+    "tiles" : [
+    {
+        "id": 114600654,
+        "sections": [ { "type": "item", "q": "Q42" } ],
+        "controls": [
+            {
+                "type": "buttons",
+                "entries": [
+                    {
+                        "type": "green",
+                        "decision": "yes",
+                        "label": "Is source",
+                        "api_action": {
+                            "action": "wbcreateclaim",
+                            "entity": "Q4115189",
+                            "property": "P1343",
+                            "snaktype": "value",
+                            "value": "{\"entity-type\":\"item\",\"numeric-id\":42}"
+                        }
+                    },
+                    { "type": "white", "decision": "skip", "label": "Dunno" },
+                    { "type": "blue", "decision": "no", "label": "Nope" }
+                ]
+            }
+        ]
+    }
+] } )
